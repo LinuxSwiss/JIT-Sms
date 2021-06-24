@@ -1,2 +1,3 @@
-# JIT-Sms
-This is a project that functions as a tool for sending bulk SMS to groups of people.
+PythonClass
+This is a python lesson project challenge that helps to build up skilss in python.
+
